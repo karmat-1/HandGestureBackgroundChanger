@@ -19,7 +19,7 @@ A real-time computer vision application built with Python that allows users to s
 ### 1. Clone the Repository
 
 ```bash
-git clone [https://github.com/your-username/HandGestureBackgroundChanger.git](https://github.com/your-username/HandGestureBackgroundChanger.git)
+git clone https://github.com/karmat-1/HandGestureBackgroundChanger.git
 cd HandGestureBackgroundChanger
 ```
 ### 2. Install Dependencies
